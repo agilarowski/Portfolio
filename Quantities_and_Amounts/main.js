@@ -55,7 +55,7 @@ d3.csv('squirrelActivities.csv', d3.autoType)
         .attr("x", width/2)
         .attr("y", height-540)
         .attr("text-anchor", "middle")
-        .style("font-size", "16px")
+        .style("font-size", "18px")
         .attr("font-weight", "bold")
         .text("Squirrel Activities");
 
